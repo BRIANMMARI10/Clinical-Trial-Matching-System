@@ -1,7 +1,7 @@
 # Clinical-Trial-Matching-System
 Overview
 
-This project is designed to match patients to eligible clinical trials using various NLP techniques, including BERT-based similarity scoring and traditional string matching. It extracts patient data, processes clinical trial eligibility criteria, and determines patient-trial matches based on similarity scores.
+This project is designed to match patients to eligible clinical trials using various NLP techniques, including traditional string matching, Word2Vec model training, and BERT-based similarity scoring. It extracts patient data, processes clinical trial eligibility criteria, and determines patient-trial matches based on similarity scores.
 
 Setup Instructions
 

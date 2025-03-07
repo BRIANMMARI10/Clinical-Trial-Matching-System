@@ -11,8 +11,8 @@ This project implements a system for matching patients to eligible clinical tria
   Patient-trial matching algorithm
   
 **Installation**
-  git clone <repo-url>
-  cd clinical-trial-matching
+  git clone https://github.com/BRIANMMARI10/Clinical-Trial-Matching-System.git
+  open clinical data matching
   pip install -r requirements.txt
   
 **Usage**

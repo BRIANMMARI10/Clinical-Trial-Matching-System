@@ -2,7 +2,7 @@
 
 **Description**
 
-Worked on this project as part of Turmerik AI take-home assessment. This project implements a system for matching patients to eligible clinical trials using NLP techniques. It processes patient data and clinical trial criteria to determine suitable matches based on similarity scores.
+WWorked on this project as part of Turmerik AI take-home assessment. This project implements a system for matching patients to eligible clinical trials using NLP techniques. It processes patient data and clinical trial criteria to determine suitable matches based on similarity scores.
 
 **Features**
   Patient data preprocessing and merging
